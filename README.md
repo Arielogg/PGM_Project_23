@@ -30,7 +30,7 @@ Made by:
 - **Felipe Cortes Jaramillo**
 - **Franck Sirguey**
 
-Supervised by Amaury Habrard and Sri Kalidindi.
+Supervised by Rémi Emonet.
 
 ## License
 
